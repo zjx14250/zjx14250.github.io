@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>测试</title>
+    <link href="/2021/11/29/test01/"/>
+    <url>/2021/11/29/test01/</url>
+    
+    <content type="html"><![CDATA[<h1 id="题目1"><a href="#题目1" class="headerlink" title="题目1"></a>题目1</h1><blockquote><p>测试环节</p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html"><span class="hljs-tag">&lt;<span class="hljs-name">p</span> <span class="hljs-attr">class</span>=<span class="hljs-string">&quot;note note-primary&quot;</span>&gt;</span>标签<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span><br></code></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs text">&#123;% note success %&#125;<br>sss<br>&#123;% endnote %&#125;<br></code></pre></td></tr></table></figure><h1 id="success"><a href="#success" class="headerlink" title="success"></a>success</h1><p>sss</p><p>            <input type="checkbox" disabled checked="checked">212314          </p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test</title>
     <link href="/2021/10/21/test/"/>
     <url>/2021/10/21/test/</url>
